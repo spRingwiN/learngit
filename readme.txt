@@ -10,3 +10,4 @@ Git multi many
 I can not remember which time it is 
 Second test for multi many this time origin has a branch named dev
 What does git diff actually do
+Test reset soft
