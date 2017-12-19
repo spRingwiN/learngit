@@ -5,3 +5,7 @@ Git tracks changes of files
 Creating a new branch is quick AND simple
 Fast forward mode
 UI color test
+When I got the mission fix bug I am busy and not done yet
+Git multi many
+I can not remember which time it is 
+Second test for multi many this time origin has a branch named dev
